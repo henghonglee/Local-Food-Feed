@@ -176,7 +176,7 @@ export default function LandingPage() {
                 backgroundClip: "text",
               }}
             >
-              Makan
+              Food
             </span>
             <span className="text-foreground">Radar</span>
           </h1>
