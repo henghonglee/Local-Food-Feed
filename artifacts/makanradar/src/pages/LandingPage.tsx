@@ -52,7 +52,7 @@ const howItWorks = [
   {
     icon: "🔍",
     title: "We Scan the Web",
-    desc: "MakanRadar sweeps blogs, social media, and food communities near you.",
+    desc: "FoodRadar sweeps blogs, social media, and food communities near you.",
   },
   {
     icon: "🍜",
@@ -102,7 +102,7 @@ export default function LandingPage() {
           style={{ color: "hsl(25, 95%, 53%)" }}
           data-testid="nav-logo"
         >
-          MakanRadar
+          FoodRadar
         </span>
         <div className="flex items-center gap-3">
           <a
@@ -196,7 +196,7 @@ export default function LandingPage() {
             className="text-base text-muted-foreground max-w-xl mx-auto mb-10"
             data-testid="hero-description"
           >
-            MakanRadar scans Singapore's food blogs, social media, and community
+            FoodRadar scans Singapore's food blogs, social media, and community
             posts to surface the most talked-about hawker stalls, cafes, and
             restaurants in your exact neighbourhood.
           </p>
@@ -358,7 +358,7 @@ export default function LandingPage() {
               className="font-display font-bold text-3xl sm:text-4xl mb-4"
               data-testid="how-it-works-title"
             >
-              How MakanRadar Works
+              How FoodRadar Works
             </h2>
             <p className="text-muted-foreground max-w-md mx-auto">
               Three simple steps from craving to eating.
@@ -408,7 +408,7 @@ export default function LandingPage() {
               className="font-display font-bold text-3xl sm:text-4xl mb-4"
               data-testid="features-title"
             >
-              Why MakanRadar?
+              Why FoodRadar?
             </h2>
           </div>
 
@@ -476,7 +476,7 @@ export default function LandingPage() {
       >
         <p className="text-muted-foreground text-sm">
           <span style={{ color: "hsl(25, 95%, 53%)" }} className="font-display font-bold">
-            MakanRadar
+            FoodRadar
           </span>{" "}
           — Discover Singapore's food scene through the power of local chatter. 🇸🇬
         </p>
